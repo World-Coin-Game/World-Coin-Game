@@ -1,16 +1,9 @@
-## 🎮🪙 Добро пожаловать на официальный сайт World Coin Game!
+# World Coin Game
 
-> **Новое!** Теперь у проекта есть собственный веб-сайт с полной информацией о игре!
+Add your existing content here...
 
-🔗 **[Посетить сайт World Coin Game](https://worldcoingame.tilda.ws/)**
 
-На сайте вы найдете:
-- 📖 Понятное объяснение правил и механики игры
-- 💰 Прозрачную информацию о токене и экономике игры
-- 🗺️ Актуальную дорожную карту развития проекта
-- 📚 Полезные материалы и руководства для начинающих
+## Token Address
 
-**[Начните играть прямо сейчас! →](https://worldcoingame.tilda.ws/)**
-
----
-
+**Token Address:** [EQADl2tPJkioYJWt-XAHmb7AHEIQ_mP8tZIqTAWDSk1xeaY1](https://tonviewer.com/EQADl2tPJkioYJWt-XAHmb7AHEIQ_mP8tZIqTAWDSk1xeaY1)  
+This is the token address from the TON blockchain, and it's important for users to have easy access to it.
